@@ -1,5 +1,5 @@
 # Time Block Your Life
-## Made at UofT Hacks VII
+## Made at UofT Hacks VII - 36 Hour Project
 Made by Justin Zhang, Kevin Cheung, Shuhb Shah, Sammi Yeung
 
 ### The Project
