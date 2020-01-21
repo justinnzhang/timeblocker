@@ -1,6 +1,6 @@
 # Time Block Your Life
 ## Made at UofT Hacks VII - 36 Hour Project
-Made by Justin Zhang, Kevin Cheung, Shuhb Shah, Sammi Yeung
+Made by Justin Zhang, Kevin Cheung, Shubh Shah, Sammi Yeung
 
 ### The Project
 Made using React.js, Python, HTML, CSS, Google Cloud. The project focuses on making you more productive.
