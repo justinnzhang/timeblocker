@@ -12,8 +12,3 @@ The project gives the user an intuitive user interface to keep track of their sc
 
 ### Figma Mock-Up
 https://www.figma.com/file/flobfKWtoGaF2mF2J81IgV/uoft-hacks?node-id=0%3A1
-
-### Live Demo Version (DESKTOP ONLY)
-https://madebyjustinzhang.com/timeblockerhost
-
-A full working demo of the application with splash page, login, and ability to add tasks. Calendar functionality is implemented through the python files, and reads from a text file. 
